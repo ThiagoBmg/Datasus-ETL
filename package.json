@@ -1,0 +1,24 @@
+{
+  "name": "datdasus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx nodemon ./modules/etl.mjs",
+    "start": "npx node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThiagoBmg/datasus_js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThiagoBmg/datasus_js/issues"
+  },
+  "homepage": "https://github.com/ThiagoBmg/datasus_js#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  }
+}
