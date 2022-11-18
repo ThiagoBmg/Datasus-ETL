@@ -1,3 +1,5 @@
+# Datasus 
+
 Após encontrar alguns problemas com a base do Datasus, resolvi desenvolver este script que realiza um processo de ETL.
 Basicamente realiza a leitura de um arquivo CSV, utiliza o delimitador ";" e depois disto corrige os valores que estão errados no datasus. 
 
